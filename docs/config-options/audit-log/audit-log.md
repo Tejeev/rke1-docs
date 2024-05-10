@@ -20,7 +20,7 @@ In RKE v1.1.0 and higher and when using specific Kubernetes versions, audit log 
 
 ### Example Configurations
 
-The audit log can be enabled by default using the following configuration in `cluster.yml`:
+The audit log can be enabled by using the following configuration in `cluster.yml`:
 
 ```yaml
 services:
